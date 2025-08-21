@@ -14,10 +14,10 @@
 3. Сохранение в базу SQLite
 4. Подключение к бд для анализа
 
-Используемые технологии:
--python
--sqlite
--BeautifulSoup4
--lxml
+Используемые технологии: 
+-python  
+-sqlite  
+-BeautifulSoup4   
+-lxml  
 
 Необходимые библиотеки для python представлены в файле requirements.txt.
